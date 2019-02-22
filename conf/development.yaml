@@ -1,0 +1,5 @@
+LOG_CONSOLE_LEVEL: trace
+
+MONGODB_URL: mongodb://127.0.0.1:27017/web-starter-dev-db
+
+CUSTOM_TEXT_CONFIG: this is a test

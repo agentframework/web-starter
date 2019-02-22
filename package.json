@@ -1,0 +1,15 @@
+{
+  "name": "agentframework-web-starter",
+  "version": "0.4.0",
+  "description": "Your dream application",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@agentframework/core": "^0.4.0",
+    "@agentframework/data": "^0.4.0",
+    "@agentframework/web": "^0.4.0"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": true
+  }
+}
