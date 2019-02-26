@@ -24,7 +24,7 @@ It's a source-available project.
   git clone https://github.com/agentframework/web-starter.git
   cd web-starter
   npm install
-  agent
+  agent dev
 ```
 
 Open the browser and access http://localhost:11021/api/hello
