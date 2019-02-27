@@ -2,8 +2,7 @@
 Start building your dream application using 100% TypeScript
 
 ## License
-AgentFramework is design for enterprise application with commercial support.
-It's a source-available project.
+AgentFramework Enterprise Edition is a source-available project. A subscription is required to access the source code.
 
 ## Before you start
 
