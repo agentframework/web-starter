@@ -1,14 +1,19 @@
 {
   "name": "agentframework-web-starter",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Your dream application",
-  "main": "src/index.ts",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "npx @agentframework/cli serve"
+  },
   "dependencies": {
-    "@agentframework/data": "^0.4.0",
-    "@agentframework/web": "^0.4.0"
+    "@agentframework/web": "^0.13.0"
   },
   "prettier": {
     "printWidth": 120,
     "singleQuote": true
+  },
+  "devDependencies": {
+    "@types/node": "~12"
   }
 }

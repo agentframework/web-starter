@@ -23,7 +23,7 @@ AgentFramework Enterprise Edition is a source-available project. A subscription 
   git clone https://github.com/agentframework/web-starter.git
   cd web-starter
   npm install
-  agent dev
+  agent serve
 ```
 
 Open the browser and access http://localhost:11021/api/hello
